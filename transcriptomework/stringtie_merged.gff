@@ -1,0 +1,2 @@
+# stringtie --merge -G paeruginosa.gff -o stringtie_merged.gff assemblies.txt
+# StringTie version 2.2.2
