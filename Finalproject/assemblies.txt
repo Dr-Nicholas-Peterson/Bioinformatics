@@ -1,0 +1,4 @@
+stringtie/test01.transcripts.gtf
+stringtie/test02.transcripts.gtf
+stringtie/control01.transcripts.gtf
+stringtie/control02.transcripts.gtf
